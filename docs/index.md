@@ -6,4 +6,4 @@ title: Hello World title
 ---
 
 
-![Image of Yaktocat](https://github.com/gitgud/room.png)
+![derp](https://raw.githubusercontent.com/gitgud/markdown/master/docs/room.jpg)
