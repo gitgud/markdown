@@ -6,7 +6,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - <the name of your second page>.md
+  - p2.md
 
 title: yolo
 description: <description of your webpage> 
