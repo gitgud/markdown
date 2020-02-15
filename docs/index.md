@@ -6,32 +6,43 @@ All question types in the game guide are based upon Matt:5:1 Part 1
 The user responds with the full word that is blanked out.
 <br>
 <br>
-Sample Question: Seeing the [?] he went up on the [?] and when he sat down, his [?] came to him.
+Sample Question:
+<br>
+Seeing the [?] he went up on the [?] and when he sat down, his [?] came to him.
 <br>
 <br>
-Sample Answer: crowds mountain disciples
+Sample Answer:
+<br>
+crowds mountain disciples
 
 ##### Question Type 2:
 The user responds with the letters of the words that are missing. The numbers indicate the position of the letters in the word.
 <br>
 <br>
-Sample Question: Seeing the [3, 4] he went up on the [1, 4] and when he sat down, his [5, 7] came to him.
+Sample Question:
+<br>
+Seeing the [3, 4] he went up on the [1, 4] and when he sat down, his [5, 7] came to him.
 <br>
 <br>
-Sample Answer: ow mn il
+Sample Answer:
+<br>
+ow mn il
 
 ##### Question Type 3:
-<br>
 The user responds with the letters of the words that are missing. The numbers in front of the bracket indicate the position of the word in the Bible bit. The numbers inside the brackets indicate the position of the letters in the word.
 <br>
 <br>
-Sample Question: 3[3, 4]  9[1, 4]  16[5, 7]
+Sample Question:
+<br>
+3[3, 4]  9[1, 4]  16[5, 7]
 <br>
 <br>
-Sample Answer: ow mn il
+Sample Answer:
+<br>
+ow mn il
 
 # Verse Guide
-##### Matt:5:1 Part 1
+##### Matt: 5: 1 Part 1
 Original Format:
 <br>
 Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him.
