@@ -3,7 +3,6 @@
 All question types in the game guide are based upon Matt:5:1 Part 1
 
 ##### Question Type 1:
-<br>
 The user responds with the full word that is blanked out.
 <br>
 <br>
@@ -13,7 +12,6 @@ Sample Question: Seeing the [?] he went up on the [?] and when he sat down, his 
 Sample Answer: crowds mountain disciples
 
 ##### Question Type 2:
-<br>
 The user responds with the letters of the words that are missing. The numbers indicate the position of the letters in the word.
 <br>
 <br>
@@ -34,7 +32,6 @@ Sample Answer: ow mn il
 
 # Verse Guide
 ##### Matt:5:1 Part 1
-<br>
 Original Format:
 <br>
 Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him.
